@@ -21,7 +21,7 @@ const Site = () => {
       <header className="lp-hero">
         <div className="lp-hero-eyebrow">● LIVE · REAL-TIME NETWORK MONITOR</div>
         <h1 className="lp-hero-title">See what your connection feels.</h1>
-        <p className="lp-hero-sub">Live ping, jitter, packet loss, spike detection, server tracking and geo mapping -S for Where Winds Meet. A quiet always-on-top overlay with near-zero CPU and memory impact on your game.</p>
+        <p className="lp-hero-sub">Live ping, jitter, packet loss, spike detection, server tracking and geo mapping - for Where Winds Meet. A quiet always-on-top overlay with near-zero CPU and memory impact on your game.</p>
         <div className="lp-cta">
           <a className="lp-btn lp-btn-primary" href="https://github.com/onyxdigital-dev/WWM-Monitor/releases/latest" target="_blank" rel="noreferrer">⬇ DOWNLOAD FOR WINDOWS</a>
           <a className="lp-btn lp-btn-ghost" href="https://github.com/onyxdigital-dev/WWM-Monitor" target="_blank" rel="noreferrer">View source</a>

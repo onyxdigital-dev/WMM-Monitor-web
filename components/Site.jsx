@@ -21,7 +21,7 @@ const Site = () => {
       <header className="lp-hero">
         <div className="lp-hero-eyebrow">● LIVE · REAL-TIME NETWORK MONITOR</div>
         <h1 className="lp-hero-title">See what your connection feels.</h1>
-        <p className="lp-hero-sub">Live ping, jitter, packet loss, spike detection, server tracking and geo mapping — for Where Winds Meet. A quiet always-on-top overlay with near-zero CPU and memory impact on your game.</p>
+        <p className="lp-hero-sub">Live ping, jitter, packet loss, spike detection, server tracking and geo mapping -S for Where Winds Meet. A quiet always-on-top overlay with near-zero CPU and memory impact on your game.</p>
         <div className="lp-cta">
           <a className="lp-btn lp-btn-primary" href="https://github.com/onyxdigital-dev/WWM-Monitor/releases/latest" target="_blank" rel="noreferrer">⬇ DOWNLOAD FOR WINDOWS</a>
           <a className="lp-btn lp-btn-ghost" href="https://github.com/onyxdigital-dev/WWM-Monitor" target="_blank" rel="noreferrer">View source</a>
@@ -86,9 +86,9 @@ const Site = () => {
         <div className="lp-kicker">· HOW IT WORKS</div>
         <h2 className="lp-h2">Install. Launch. Play.</h2>
         <div className="lp-steps">
-          <div className="lp-step"><div className="lp-step-n">01</div><h3>Install</h3><p>Download the installer from GitHub Releases. No Python or Node.js required — everything is bundled.</p></div>
+          <div className="lp-step"><div className="lp-step-n">01</div><h3>Install</h3><p>Download the installer from GitHub Releases. No Python or Node.js required - everything is bundled.</p></div>
           <div className="lp-step"><div className="lp-step-n">02</div><h3>Launch</h3><p>Start your game. The monitor auto-detects the process and reads the live server IP from your TCP connections.</p></div>
-          <div className="lp-step"><div className="lp-step-n">03</div><h3>Watch</h3><p>ICMP ping every 2 seconds — identical to Windows <code>ping</code>. What you see is what the game feels.</p></div>
+          <div className="lp-step"><div className="lp-step-n">03</div><h3>Watch</h3><p>ICMP ping every 2 seconds - identical to Windows <code>ping</code>. What you see is what the game feels.</p></div>
         </div>
         <div className="lp-how-note">Sits in your system tray and keeps running in the background. Reconnects automatically on new sessions or server switches.</div>
       </section>
